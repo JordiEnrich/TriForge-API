@@ -28,8 +28,8 @@
 2. 📋 **Validador y formateador de JSON:** Comprueba la sintaxis y da formato limpio a tus objetos JSON para evitar errores de estructuración.
 3. 🔑 **Generador de claves API y HASHES:** Crea identificadores seguros y encriptaciones de forma rápida para tus desarrollos.
 4. ⚡ **Probador de Endpoints:** Realiza pruebas directas sobre tus rutas y peticiones HTTP de manera centralizada.
-5. 📝 **Gestor de tareas:** Organiza y administra pendientes o procesos directamente vinculados a tu flujo de trabajo.
-6. 🎲 **Generador de datos de prueba:** Produce información simulada (*mock data*) de manera masiva para poblar tus bases de datos y realizar tests.
+5. 📝 **Gestor de tareas:** Permite gestionar y priorizar tareas o procesos dentro de tu flujo de trabajo.
+6. 🎲 **Generador de datos de prueba:** Crea grandes volúmenes de datos de prueba (mock data) para rellenar bases de datos y realizar pruebas de rendimiento.
 
 ---
 
